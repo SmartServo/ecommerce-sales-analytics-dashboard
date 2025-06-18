@@ -41,13 +41,14 @@ Relationships follow a **star schema** for optimal performance.
 ---
 
 ## 🖥️ Dashboard Preview
+![image](https://github.com/user-attachments/assets/06c4649e-6dd0-4c3b-a372-a77a18ea0e72)
 
 
 ---
 
 ## 📌 How to Use
 1. **Download or Clone this repository**
-2. Open `Ecommerce_Sales_Analytics.pbix` in **Power BI Desktop**
+2. Open `SmartServo E-commerce Sales Dashboard.pbix` in **Power BI Desktop**
 3. Explore, customize, or connect to your own dataset
 
 ---
@@ -60,7 +61,7 @@ Relationships follow a **star schema** for optimal performance.
 ---
 
 ## 📧 Contact
-Built by [Your Name](https://github.com/your-username)  
+Built by Tshepiso Mphahlele
 For queries: smartservo@outlook.com
 
 ---
